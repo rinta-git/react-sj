@@ -1,0 +1,11 @@
+body {
+  color: #000;
+}
+.About__Content {
+  background-color: #ffffff;
+}
+@media (max-width: 575.98px) {
+  .About__Content {
+    margin-top: 75px;
+  }
+}
